@@ -10,6 +10,7 @@ Github.pages URL: https://a-frankhouser.github.io/Challenge-1/
 Github repository URL: https://github.com/A-Frankhouser/Challenge-1
 
 Project Screenshots:
+
 	Screenshot (1)
 	https://user-images.githubusercontent.com/111673645/190918017-97fcf235-988a-4eca-abe6-868b749c569a.png
 
