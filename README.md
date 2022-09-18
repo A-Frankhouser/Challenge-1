@@ -10,15 +10,17 @@ Github.pages URL: https://a-frankhouser.github.io/Challenge-1/
 Github repository URL: https://github.com/A-Frankhouser/Challenge-1
 
 Project Screenshots:
+	Screenshot (1)
+	https://user-images.githubusercontent.com/111673645/190918017-97fcf235-988a-4eca-abe6-868b749c569a.png
 
+	Screenshot (2)
+	https://user-images.githubusercontent.com/111673645/190918039-ed056652-6ea6-4489-a474-24b33222e191.png
 
+	Screenshot (3)
+	https://user-images.githubusercontent.com/111673645/190918088-55343e9e-8908-4e1f-bfe3-7ae8a56d247e.png
 
-
-
-
-
-
-Acknowledgements: This project was completed with a group of wonderful and knowledgeable people. While working with these people I learned a lot and got to see how they view coding. They helped me understand coding a lot better! These people are:
+Acknowledgements: 
+	This project was completed with a group of wonderful and knowledgeable people. While working with these people I learned a lot and got to see how they view coding. They helped me understand coding a lot better! These people are:
 
 	- Chris Lemmon
 	- Joe Labadia
